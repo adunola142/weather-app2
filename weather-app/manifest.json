@@ -1,0 +1,41 @@
+{
+    "name": "Cool Weather App",
+    "short_name": "Weather App",
+    "start_url": ".",
+    "background_color": "#7fa9d3",
+    "theme_color": "#7fa9d7",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "images/newlogo 1-124.png",
+            "sizes": "124x124",
+            "type": "image/png"
+        },
+        {
+          "src": "images/newlogo 1-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+          {
+          "src": "images/newlogo 1-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+         {
+          "src": "images/newlogo 1-152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+         {
+          "src": "images/newlogo 72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+         {
+          "src": "images/newlogo 96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
